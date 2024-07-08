@@ -1,0 +1,133 @@
+서비스 설명,서비스 ID,SKU 설명,SKU ID,사용량,사용량 단위,비용(₩),할인(₩),프로모션 및 기타(₩),반올림되지 않은 소계(₩),소계(₩),이전 기간 대비 소계 변동률
+Cloud SQL,9662-B51E-5089,Cloud SQL for PostgreSQL: Regional - Enterprise Plus N RAM in Seoul,66ED-23EA-CB69,"11,520",gibibyte hour,372664,0,0,372664.108080,372664,-4%
+Cloud SQL,9662-B51E-5089,Cloud SQL for PostgreSQL: Regional - Enterprise Plus N vCPU in Seoul,0374-5EEA-4AE5,"1,440",hour,274388,0,0,274387.708080,274388,-4%
+Cloud SQL,9662-B51E-5089,Cloud SQL for PostgreSQL: Regional - Enterprise Plus Data Cache Storage in Seoul,2734-C30D-558A,375,gibibyte month,212932,0,0,212932.199520,212932,-1%
+Cloud SQL,9662-B51E-5089,Cloud SQL for PostgreSQL: Regional - Enterprise Plus Standard Storage in Seoul,591B-9D56-E4FA,250,gibibyte month,150827,0,0,150826.974480,150827,-1%
+App Engine,F17B-412E-CB64,Backend Instances Osaka,74C1-6299-8F3E,"1,444.588",hour,104211,0,0,104211.489061,104211,-4%
+Compute Engine,6F81-5844-456A,E2 Instance Core running in Seoul,9304-94C4-2117,"1,259.979",hour,48200,0,0,48200.065613,48200,-4%
+Compute Engine,6F81-5844-456A,E2 Instance Ram running in Seoul,D715-4E57-BAFB,"5,039.919",gibibyte hour,25722,0,0,25722.224118,25722,-4%
+Networking,E505-1604-58F8,Cloud Load Balancer Forwarding Rule Minimum Global,DEE3-C42E-3E4D,720,hour,24569,0,0,24569.099271,24569,-4%
+Compute Engine,6F81-5844-456A,Balanced PD Capacity in Seoul,5666-EFB4-5C79,29.187,gibibyte month,5179,0,0,5179.122728,5179,45%
+Compute Engine,6F81-5844-456A,External IP Charge on a Standard VM,C054-7F72-A02E,"1,439.919",hour,4913,0,0,4913.266010,4913,-3%
+Compute Engine,6F81-5844-456A,Storage PD Capacity in Seoul,0306-B164-A7B7,20,gibibyte month,1420,0,0,1419.546979,1420,-1%
+Cloud DNS,FA26-5236-B8B5,ManagedZone,8C22-6FC3-D478,2,month,546,0,0,545.979600,546,-1%
+Artifact Registry,149C-F9EC-3994,Artifact Registry Storage,8502-299A-ABAF,3.194,gibibyte month,368,0,0,367.677642,368,55%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer Out from Seoul to South Korea,70A1-9E75-5BB1,0.233,gibibyte,60,0,0,60.363434,60,11%
+Cloud SQL,9662-B51E-5089,Cloud SQL: Backups in Seoul,8519-2869-D7C1,0.269,gibibyte month,38,0,0,38.231168,38,3%
+Cloud Storage,95FF-2EF5-5EA1,Multi-Region Standard Class B Operations,8AE7-5BBD-8F38,"36,008",count,20,0,0,19.659586,20,-5%
+Cloud DNS,FA26-5236-B8B5,DNS Query (port 53),6DFF-5025-A128,"24,521",count,13,0,0,13.387129,13,-7%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer Out from Seoul to Apac(Excluding Korea and Indonesia),16D6-B598-91DA,0.029,gibibyte,8,0,0,7.557042,8,60%
+Cloud SQL,9662-B51E-5089,Network Internet Data Transfer Out from Seoul to APAC,0DBF-7B11-1C9D,0.017,gibibyte,4,0,0,4.420245,4,-50%
+Cloud Storage,95FF-2EF5-5EA1,Multi-Region Standard Class A Operations,9ADA-9AED-1B24,237,count,3,0,0,3.234877,3,0%
+Compute Engine,6F81-5844-456A,Network Inter Zone Data Transfer Out,DE9E-AFBC-A15A,0.171,gibibyte,2,0,0,2.336816,2,0%
+Networking,E505-1604-58F8,Global External Application Load Balancer Outbound Data Processing for Seoul (asia-northeast3),3C98-FAA0-7935,0.134,gibibyte,2,0,0,2.186056,2,0%
+Cloud Storage,95FF-2EF5-5EA1,Network Data Transfer GCP Multi-region within Asia,990F-BF38-8D3C,0.016,gibibyte,2,0,0,1.714902,2,0%
+Cloud Storage,95FF-2EF5-5EA1,Network Data Transfer GCP Replication within Asia,CA61-E18A-B2D6,0.011,gibibyte,1,0,0,1.168750,1,
+Networking,E505-1604-58F8,Global External Application Load Balancer Inbound Data Processing for Seoul (asia-northeast3),147E-ED36-67D1,0.052,gibibyte,1,0,0,0.847582,1,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer Out from Seoul to EMEA,0C3E-FFEC-0D6F,0.003,gibibyte,1,0,0,0.820821,1,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer Out from Seoul to Americas,267D-1497-929B,0.003,gibibyte,1,0,0,0.718516,1,0%
+Cloud Storage,95FF-2EF5-5EA1,Standard Storage Asia Multi-region,E653-0A40-3B69,0.016,gibibyte month,1,0,0,0.573368,1,
+Cloud SQL,9662-B51E-5089,Network Internet Data Transfer Out from Seoul to Americas,173A-5A39-18A2,0,gibibyte,0,0,0,0.123154,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Japan,5943-4B33-25A7,0.001,gibibyte,0,0,0,0.065770,0,0%
+Compute Engine,6F81-5844-456A,Network Data Transfer Out via Carrier Peering Network - APAC Based,9428-46F3-3796,0,gibibyte,0,0,0,0.036578,0,0%
+Compute Engine,6F81-5844-456A,Multi-regional Snapshot upload within Asia,65C4-5F7D-ED7E,0,gibibyte,0,0,0,0.018640,0,0%
+Cloud SQL,9662-B51E-5089,Network Internet Data Transfer Out from Seoul to EMEA,98AE-34C5-8D20,0,gibibyte,0,0,0,0.016742,0,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer Out from Seoul to China,4917-2B57-3B06,0,gibibyte,0,0,0,0.015833,0,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer Out from Seoul to Middle East,650B-52D0-BEF4,0,gibibyte,0,0,0,0.013319,0,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer Out from Seoul to Australia,4152-BA11-9EA8,0,gibibyte,0,0,0,0.011395,0,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer Out from Seoul to South America,1560-00C4-92EE,0,gibibyte,0,0,0,0.009272,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Americas,431F-2128-D8A7,0,gibibyte,0,0,0,0.008230,0,0%
+Cloud SQL,9662-B51E-5089,Network Inter Connect Data Transfer Out APAC,C290-B72E-DA4E,0,gibibyte,0,0,0,0.007882,0,0%
+Compute Engine,6F81-5844-456A,Storage PD Snapshot in Asia,6E69-DD68-8DCA,0,gibibyte month,0,0,0,0.005954,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to EMEA,E19C-E963-C97B,0,gibibyte,0,0,0,0.004917,0,0%
+Cloud Storage,95FF-2EF5-5EA1,Download China,4980-950B-BDA6,0,gibibyte,0,0,0,0.003738,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to London,21C3-F99C-8EE9,0,gibibyte,0,0,0,0.002760,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Zurich,37BA-4BBA-EB3C,0,gibibyte,0,0,0,0.002225,0,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer Out from Seoul to Africa,7798-6A2D-3569,0,gibibyte,0,0,0,0.001270,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to APAC,9AFF-F9FB-252A,0,gibibyte,0,0,0,0.001183,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Sao Paulo,60F8-60BE-ED26,0,gibibyte,0,0,0,0.001173,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Finland,52E9-9F12-E0DB,0,gibibyte,0,0,0,0.001003,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Virginia,BB8B-B7CE-1B81,0,gibibyte,0,0,0,0.000504,0,0%
+Cloud SQL,9662-B51E-5089,Network Inter Region Data Transfer Out from Seoul to Americas,2B78-6178-F582,0,gibibyte,0,0,0,0.000404,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Los Angeles,4804-FC7D-0292,0,gibibyte,0,0,0,0.000253,0,0%
+Cloud SQL,9662-B51E-5089,Network Inter Region Data Transfer Out from Seoul to London,2ED6-3BB5-FADE,0,gibibyte,0,0,0,0.000198,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Montreal,0062-617C-0357,0,gibibyte,0,0,0,0.000158,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Columbus,3B10-27F8-D9DE,0,gibibyte,0,0,0,0.000140,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Sydney,53E1-8468-4DEA,0,gibibyte,0,0,0,0.000128,0,0%
+Cloud SQL,9662-B51E-5089,Network Inter Region Data Transfer Out from Seoul to Finland,5C40-7206-C82D,0,gibibyte,0,0,0,0.000054,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Netherlands,D9B8-4F7B-8360,0,gibibyte,0,0,0,0.000052,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Singapore,5661-5EEA-F9C7,0,gibibyte,0,0,0,0.000044,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Mumbai,5F5C-5B13-425E,0,gibibyte,0,0,0,0.000044,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Osaka,C4C9-71BA-5FC7,0,gibibyte,0,0,0,0.000034,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Israel,5C73-8944-8A3B,0,gibibyte,0,0,0,0.000033,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Hong Kong,58B1-5747-9E17,0,gibibyte,0,0,0,0.000032,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Las Vegas,1F62-B169-3960,0,gibibyte,0,0,0,0.000030,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer Out from Seoul to Frankfurt,EBC7-4D9B-9829,0,gibibyte,0,0,0,0.000024,0,0%
+Artifact Registry,149C-F9EC-3994,Artifact Registry Network Intra Region Egress,546B-E8F2-6FF5,1.08,gibibyte,0,0,0,0.000000,0,0%
+Cloud Logging,5490-F7B7-8DF6,Log Storage cost,143F-A1B0-E0BE,0.085,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Finland to Seoul,07A5-1A1F-ED14,0.002,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Data Transfer In via Carrier Peering Network - APAC Based,0B29-DA5B-5E84,0.266,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Osaka to Seoul,148F-7329-5C06,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer In from Middle East to Seoul,1872-6F01-49D3,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Sydney to Seoul,24A4-796A-7019,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Dallas to Seoul,2E0A-CBF2-E6C2,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Melbourne to Seoul,39C3-0E7D-6512,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer In from China to Seoul,3C2F-71B9-5CA6,0.006,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Licensing Fee for Container-Optimized OS - PCID Whitelisted (RAM cost),3D41-4308-45C0,"1,440",gibibyte hour,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Sao Paulo to Seoul,3F5F-9EF4-5675,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Warsaw to Seoul,40BE-375C-CD8B,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer In from Australia to Seoul,4D51-A487-5255,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from EMEA to Seoul,506B-9D3A-E63F,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Jakarta to Seoul,580E-CFE2-79A8,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Israel to Seoul,661E-8887-E722,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer In from South Korea to Seoul,6763-BABD-E91D,0.553,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network HTTP Load Balancing Data Transfer Out to Load Balancer,6C67-1253-BB04,0.77,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from APAC to Seoul,70D2-29C7-88E4,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network HTTP Load Balancing Data Transfer In from Load Balancer,761A-BA86-D467,1.098,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Salt Lake City to Seoul,783D-102B-4027,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from London to Seoul,7C40-9586-A805,0.005,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Data Transfer In from Google Services from Seoul to Seoul,8198-E4B0-1867,0.402,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer In from Africa to Seoul,81D6-9E1E-7EBB,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Johannesburg to Seoul,8E78-ED8C-1B8A,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Japan to Seoul,9396-2E03-715A,0.41,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Mumbai to Seoul,9584-E076-6DCC,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Milan to Seoul,9671-A887-4FDF,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Berlin to Seoul,9C7F-D3DC-2F8E,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Zurich to Seoul,9DCA-A031-BE1E,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Delhi to Seoul,9EBB-1B70-C0AC,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Licensing Fee for Ubuntu 20.04 LTS (Focal Fossa) (RAM cost),A40C-DDB6-A932,"3,599.919",gibibyte hour,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Frankfurt to Seoul,A4E3-B221-93E6,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Data Transfer to Google Services from Seoul to Seoul,B015-993D-58EB,0.29,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Licensing Fee for Shielded COS (RAM cost),B0B5-6E19-13AE,"1,440",gibibyte hour,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Virginia to Seoul,B13C-B8E5-5633,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Las Vegas to Seoul,B3E4-F46A-1732,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Doha to Seoul,B4CB-ED0F-96FD,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Columbus to Seoul,B65F-ED05-1368,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Montreal to Seoul,BB61-21CD-F57C,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer In from Americas to Seoul,BB93-6B91-0A79,0.04,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer In from Apac(Excluding Korea and Indonesia) to Seoul,BEAA-E5FE-0A06,0.147,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Americas to Seoul,C302-9168-A116,0.006,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer In from EMEA to Seoul,C667-887A-ECEE,0.013,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Singapore to Seoul,C978-AAE0-EAE1,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Zone Data Transfer In,D0CC-50DF-59D2,0.19,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Licensing Fee for Ubuntu 20.04 LTS (Focal Fossa) (CPU cost),D39A-E0A6-C301,"1,439.919",hour,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Internet Data Transfer In from South America to Seoul,D527-B607-EF15,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Hong Kong to Seoul,DC2C-3913-A1E4,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Santiago to Seoul,DDF0-08CC-7242,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Licensing Fee for Ubuntu 20.04 LTS (Focal Fossa) (CPU cost),DF89-9851-3C54,"1,439.919",hour,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Los Angeles to Seoul,E211-C1CE-3C55,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Netherlands to Seoul,E76E-9AE7-8B9F,0,gibibyte,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Licensing Fee for Container-Optimized OS from Google (CPU cost),ECCC-9EE4-AEE4,"1,440",hour,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Licensing Fee for Container-Optimized OS from Google (RAM cost),F239-15CB-5B98,"1,440",gibibyte hour,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Licensing Fee for Container-Optimized OS from Google (CPU cost),FA27-F4A0-3EE3,360,hour,0,0,0,0.000000,0,0%
+Compute Engine,6F81-5844-456A,Network Inter Region Data Transfer In from Dammam to Seoul,FBD5-578D-3C96,0,gibibyte,0,0,0,0.000000,0,0%
+Cloud Build,8B5D-EF7D-EB12,Build time e2-standard-2,A464-9020-6404,19.45,minutes of build time,0,0,0,0.000000,0,0%
+Cloud Storage,95FF-2EF5-5EA1,Network Data Transfer GAE/Firebase Storage,07A4-C7D5-D204,0.001,gibibyte,0,0,0,0.000000,0,0%
+Cloud Storage,95FF-2EF5-5EA1,Download APAC,1F8B-71B0-3D1B,0.073,gibibyte,0,0,0,0.000000,0,0%
+Cloud Storage,95FF-2EF5-5EA1,Download Worldwide Destinations (excluding Asia & Australia),22EB-AAE8-FBCD,0,gibibyte,0,0,0,0.000000,0,0%
+Cloud SQL,9662-B51E-5089,Network Inter Zone Data Transfer Out in Seoul,31D7-FEED-A644,1.741,gibibyte,0,0,0,0.000000,0,0%
+Cloud SQL,9662-B51E-5089,Network Data Transfer to Google Services from Seoul to Seoul,E76B-F25E-02D4,0.572,gibibyte,0,0,0,0.000000,0,0%
+Networking,E505-1604-58F8,Network Intelligence Center Network Analyzer Resource Hours,9BF8-CD36-F9B8,"2,880",count,4324,-4324,0,0.000000,0,0%
+Networking,E505-1604-58F8,Network Intelligence Center Internet to Google Cloud Performance Resource Hours,BDBA-22FA-3925,"2,880",count,3145,-3145,0,0.000000,0,0%
+Networking,E505-1604-58F8,Network Intelligence Center Topology and Google Cloud Performance Resource Hours,D9AD-28F8-05D8,"2,880",count,4324,-4324,0,0.000000,0,0%
+App Engine,F17B-412E-CB64,Out Bandwidth Osaka,7308-C7EC-177E,0.058,gibibyte,0,0,0,0.000000,0,0%
